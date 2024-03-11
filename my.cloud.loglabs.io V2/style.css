@@ -21511,7 +21511,7 @@ form[role=search].active input {
 }
 
 .profile-cover {
-    background-image: url(../../assets/img/photos/35.jpg);
+    background-image: url(https://my.cloud.loglabs.io/assets/img/photos/35.jpg);
     background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
