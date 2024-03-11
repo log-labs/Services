@@ -29624,7 +29624,7 @@ textarea.parsley-success:focus {
 .invoice-highlight::before {
     content: "";
     position: absolute;
-    background: url(../../assets/img/svgs/inv_bg-1.svg);
+    background: url(https://my.cloud.loglabs.io/assets/img/svgs/inv_bg-1.svg);
     background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
